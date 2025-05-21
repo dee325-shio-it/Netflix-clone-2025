@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dee325-shio-it/Netflix-clone-2025.git/static/css/main.4d93ce7a.css",
+    "main.js": "/dee325-shio-it/Netflix-clone-2025.git/static/js/main.b50de023.js",
+    "static/media/NetflixLogo.png": "/dee325-shio-it/Netflix-clone-2025.git/static/media/NetflixLogo.fa98af57cbc2a68998fb.png",
+    "index.html": "/dee325-shio-it/Netflix-clone-2025.git/index.html",
+    "main.4d93ce7a.css.map": "/dee325-shio-it/Netflix-clone-2025.git/static/css/main.4d93ce7a.css.map",
+    "main.b50de023.js.map": "/dee325-shio-it/Netflix-clone-2025.git/static/js/main.b50de023.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d93ce7a.css",
+    "static/js/main.b50de023.js"
+  ]
+}
