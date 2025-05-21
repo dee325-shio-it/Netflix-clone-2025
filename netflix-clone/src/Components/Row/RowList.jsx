@@ -1,8 +1,8 @@
 // RowList.jsx
-// src/Components/Rows/RowList.jsx
+
 import React from "react";
-import Row from "../Row/Row"; // Make sure the path to Row is correct
-import requests from "../../utils/requests"; // Import your requests.js file
+import Row from "../Row/Row"; 
+import requests from "../../utils/requests"; 
 
 const RowList = () => {
   return (

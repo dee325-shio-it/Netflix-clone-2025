@@ -3,55 +3,45 @@
   object-fit: contain;
   height: 448px;
   position: relative;
-  background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
-.banner_contents {
+.banner__contents {
   margin-left: 30px;
   padding-top: 140px;
   height: 190px;
 }
 
-.banner_title {
+.banner__title {
   font-size: 3rem;
   font-weight: 800;
   padding-bottom: 0.3rem;
 }
 
-.banner_description {
+.banner__description {
   width: 45rem;
+  max-width: 360px;
   line-height: 1.3;
   padding-top: 1rem;
-  font-size: 1rem;
-  max-width: 360px;
-  height: 180px;
+  font-size: 0.8rem;
+  height: 80px;
 }
 
-.banner_buttons {
-  margin-top: 20px;
-}
-
-.banner_button {
+.banner__button {
   cursor: pointer;
   color: #fff;
   outline: none;
   border: none;
   font-weight: 700;
   border-radius: 0.2vw;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  padding: 0.5rem 2rem;
   margin-right: 1rem;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
   background-color: rgba(51, 51, 51, 0.5);
+  transition: all 0.2s;
 }
 
 .banner_button:hover {
   color: #000;
   background-color: #e6e6e6;
-  transition: all 0.2s;
 }
 
 .banner_fadeBottom {
@@ -63,19 +53,6 @@
     #111
   );
   position: absolute;
-  top: 0;
   bottom: 0;
   width: 100%;
 }
-
-/* .banner {
-  color: white;
-  object-fit: contain;
-  height: 448px;
-  position: relative;
-}
- .banner_contents {
-  margin-left: 30px;
-  padding-top: 140px;
-  height: 190px;
- } */
